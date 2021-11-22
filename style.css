@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+}
+.color{
+   display: inline;
+   margin: 10px;
+
+}
+#cor1{
+    border: black solid 1px;
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    float:left;
+
+}
+#cor2{
+    border: black solid 1px;
+    width: 80px;
+    height: 80px;
+    background-color: palevioletred;
+    display: inline-block;
+
+}
+#cor3{
+    border: black solid 1px;
+    width: 80px;
+    height: 80px;
+    background-color: goldenrod;
+    display: inline-block;
+}
+#cor4{
+    border: black solid 1px;
+    width: 80px;
+    height: 80px;
+    background-color: aquamarine;
+    display: inline-block;
+}
