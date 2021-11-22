@@ -7,29 +7,36 @@ h1 {
 }
 #cor1 {
     border: black solid 1px;
-    width: 80px;
-    height: 80px;
+    width: 40px;
+    height: 40px;
     background-color: black;
     float: left;
 }
 #cor2 {
     border: black solid 1px;
-    width: 80px;
-    height: 80px;
+    width: 40px;
+    height: 40px;
     background-color: palevioletred;
     display: inline-block;
 }
 #cor3 {
     border: black solid 1px;
-    width: 80px;
-    height: 80px;
+    width: 40px;
+    height: 40px;
     background-color: goldenrod;
     display: inline-block;
 }
 #cor4 { 
     border: black solid 1px;
-    width: 80px;
-    height: 80px;
+    width: 40px;
+    height: 40px;
     background-color: aquamarine;
+    display: inline-block;
+}
+.pixel {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border: black solid 1px;
     display: inline-block;
 }
