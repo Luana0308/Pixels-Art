@@ -1,35 +1,32 @@
-h1{
+h1 {
     text-align: center;
 }
-.color{
+.color {
    display: inline;
-   margin: 10px;
-
+   margin: 5px;
 }
-#cor1{
+#cor1 {
     border: black solid 1px;
     width: 80px;
     height: 80px;
     background-color: black;
-    float:left;
-
+    float: left;
 }
-#cor2{
+#cor2 {
     border: black solid 1px;
     width: 80px;
     height: 80px;
     background-color: palevioletred;
     display: inline-block;
-
 }
-#cor3{
+#cor3 {
     border: black solid 1px;
     width: 80px;
     height: 80px;
     background-color: goldenrod;
     display: inline-block;
 }
-#cor4{
+#cor4 { 
     border: black solid 1px;
     width: 80px;
     height: 80px;
