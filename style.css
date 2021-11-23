@@ -39,4 +39,5 @@ h1 {
     background-color: white;
     border: black solid 1px;
     display: inline-block;
+    margin-bottom: -4px;
 }
