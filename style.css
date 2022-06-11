@@ -1,33 +1,40 @@
+body {
+    background-image: url("backImage.jpg");
+    height: max-content;
+}
 h1 {
     text-align: center;
+    color: rgb(85, 5, 5);
+    box-shadow: 20px;
+    font-size: 45px;
 }
 .color {
    display: inline;
    margin: 5px;
 }
 #cor1 {
-    border: black solid 1px;
+    border: black solid 10px;
     width: 40px;
     height: 40px;
     background-color: black;
-    float: left;
+    display: inline-block;
 }
 #cor2 {
-    border: black solid 1px;
+    border: palevioletred solid 10px;
     width: 40px;
     height: 40px;
     background-color: palevioletred;
     display: inline-block;
 }
 #cor3 {
-    border: black solid 1px;
+    border: goldenrod solid 10px;
     width: 40px;
     height: 40px;
     background-color: goldenrod;
     display: inline-block;
 }
 #cor4 { 
-    border: black solid 1px;
+    border: aquamarine solid 10px;
     width: 40px;
     height: 40px;
     background-color: aquamarine;
@@ -37,7 +44,14 @@ h1 {
     width: 40px;
     height: 40px;
     background-color: white;
-    border: black solid 1px;
+    border: rgb(177, 173, 173) solid 2px;
     display: inline-block;
     margin-bottom: -4px;
+    margin-left: 360px;
+    margin-right: -360px;
+}
+
+.table-color {
+
+    text-align: center;
 }
